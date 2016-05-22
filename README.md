@@ -1,2 +1,4 @@
-# Invisible-Path
-An invisible path for Parkitect. Instead of showing a texture, it will show the texture below it.
+# CustomSceneryModTemplate
+Mod template for custom scenery
+
+See https://parkitectnexus.com/modding-wiki for documentation
